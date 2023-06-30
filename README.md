@@ -44,7 +44,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <hr>
 
-### Quick stats about me
 | Github Stats | Top Languages |
 | --- | --- |
 | ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=offensivedroid&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=offensivedroid&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
