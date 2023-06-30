@@ -2,6 +2,7 @@
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 <img src="https://i.ibb.co/4mW3fX5/Lear-Ning-Framework.png">
+<p>Hello! My name is Offensive Droid, and I am a cybersecurity student from the Philippines. At the age of 19, I have already embarked on a journey to explore the fascinating world of cybersecurity. With a passion for technology and a strong desire to protect digital systems and information, I am dedicated to honing my skills and knowledge in this rapidly evolving field.</p>
 
 <a href="https://app.daily.dev/offensivedroid"><img  align="right" src="https://api.daily.dev/devcards/f327371547b147fe97587bf5a6a70df0.png?r=jzm" width="400" alt="offensivedroid's Dev Card"/></a>
 ### <img src="https://facebookbrand.com/wp-content/uploads/2020/10/Logo_Messenger_NewBlurple-399x399-1.png?w=399&h=399" width="20px"> Social Platforms 
