@@ -51,7 +51,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
  
  
-## <img src="bash.png" width="250px">  IAM ROOT~
+##   <img src="https://www.freepnglogos.com/uploads/linux-png/linux-logo-logo-brands-for-0.png" width="30px"> IAM ROOT~
 
 <p align="">
    <img src="roooot.gif" />
