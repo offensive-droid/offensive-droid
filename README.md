@@ -51,7 +51,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
  
  
-## <img src="bash.png" width="100px">  IAM ROOT~
+## <img src="bash.png" width="250px">  IAM ROOT~
 
 <p align="">
    <img src="roooot.gif" />
