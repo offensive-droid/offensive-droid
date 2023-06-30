@@ -15,6 +15,5 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 
 ### <img src="https://tryhackme-images.s3.amazonaws.com/user-avatars/7f569dd51a176e91ef903ede95eb3eee.jpg" width="20px"> TryHackme Profile
-<img src="https://tryhackme-badges.s3.amazonaws.com/Monsterlux.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/Monsterlux.png"width="20px" alt="TryHackMe">
 
-<script src="https://tryhackme.com/badge/2014476"></script>
