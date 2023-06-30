@@ -45,7 +45,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
    <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
    </p>
    
-   
 <br />
 
 <h2 align="center">🤝 Support</h2>
