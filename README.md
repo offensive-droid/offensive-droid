@@ -14,7 +14,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 ![YouTube](https://img.shields.io/badge/FonderElite-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
 
-<a style="text-align:center" href="https://github.com/blackcater" alt="https://github.com/blackcater"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=blackcater&color=000000"></a>
+<a align="center" href="https://github.com/blackcater" alt="https://github.com/blackcater"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=blackcater&color=000000"></a>
 
-<a  style="text-align:center" href="https://github.com/blackcater/blackcater/blob/main/LICENSE" alt="https://github.com/blackcater/blackcater/blob/main/LICENSE"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=000000"></a>
+<a  align="center" href="https://github.com/blackcater/blackcater/blob/main/LICENSE" alt="https://github.com/blackcater/blackcater/blob/main/LICENSE"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=000000"></a>
 
