@@ -42,7 +42,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <img src="https://tryhackme-badges.s3.amazonaws.com/Monsterlux.png"  alt="TryHackMe">
 
 <p align="center">
-   <img src="rooot.gif" />
+   <img src="roooot.gif" />
    </p>
    
 <br />
