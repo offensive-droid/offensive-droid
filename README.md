@@ -52,7 +52,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <hr>
    
-## I live for this sh*t
 <p align="">
    <img src="msf.png" />
    </p>
