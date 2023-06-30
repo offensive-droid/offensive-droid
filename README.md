@@ -16,7 +16,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <hr>
 
-### <img src="https://facebookbrand.com/wp-content/uploads/2020/10/Logo_Messenger_NewBlurple-399x399-1.png?w=399&h=399" width="20px"> Social Platforms 
+### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="20px"> Social Platforms 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
@@ -36,6 +36,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 </p>
 
 <hr>
+
 ### <img src="https://tryhackme-images.s3.amazonaws.com/user-avatars/7f569dd51a176e91ef903ede95eb3eee.jpg" width="30px"> TryHackme Profile
 <img src="https://tryhackme-badges.s3.amazonaws.com/Monsterlux.png"  alt="TryHackMe">
 
