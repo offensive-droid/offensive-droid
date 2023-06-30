@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">OffensiveDroid</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
-
-<img src="https://api.daily.dev/devcards/f327371547b147fe97587bf5a6a70df0.png?r=r6z">
+<a href="https://app.daily.dev/offensivedroid"><img src="https://api.daily.dev/devcards/f327371547b147fe97587bf5a6a70df0.png?r=jzm" width="400" alt="offensivedroid's Dev Card"/></a>
 
 <img src="https://i.ibb.co/4mW3fX5/Lear-Ning-Framework.png">
 
