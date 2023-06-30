@@ -39,7 +39,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <hr>
 
 ### <img src="https://tryhackme-images.s3.amazonaws.com/user-avatars/7f569dd51a176e91ef903ede95eb3eee.jpg" width="30px"> TryHackme Profile
-<img src="https://tryhackme-badges.s3.amazonaws.com/Monsterlux.png"  alt="TryHackMe">
+<img src="https://i.ibb.co/Fxvds49/thm-removebg-preview.png"  alt="TryHackMe">
 
 <hr>
 
