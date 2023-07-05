@@ -3,6 +3,12 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <img src="https://i.ibb.co/4mW3fX5/Lear-Ning-Framework.png">
 
+Welcome on my Github profile!
+
+🛡️ I am a CyberSecurity Student learning about Offensive Go
+👾 I am Interested in CTFs 
+🔥 I mostly like Python, Go, WebHacking, Reverse Engineering
+📱 Feel free to reach out to me! 
 
 <a href="https://app.daily.dev/offensivedroid"><img  align="right" src="https://api.daily.dev/devcards/f327371547b147fe97587bf5a6a70df0.png?r=jzm" width="400" alt="offensivedroid's Dev Card"/></a>
 ### <img src="https://facebookbrand.com/wp-content/uploads/2020/10/Logo_Messenger_NewBlurple-399x399-1.png?w=399&h=399" width="20px"> Social Platforms 
@@ -64,6 +70,8 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
    </p>
 
 <br />
+
+
 
 <h2 align="center">💻 Eat, Sleep, Hack - REPEAT!</h2>
 
