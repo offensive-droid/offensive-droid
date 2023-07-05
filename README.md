@@ -5,9 +5,9 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 Welcome on my Github profile!
 
-🛡️ I am a CyberSecurity Student learning about Offensive Go
-👾 I am Interested in CTFs 
-🔥 I mostly like Python, Go, WebHacking, Reverse Engineering
+🛡️ I am a CyberSecurity Student learning about Offensive Go <br>
+👾 I am Interested in CTFs <br>
+🔥 I mostly like Python, Go, WebHacking, Reverse Engineering <br>
 📱 Feel free to reach out to me! 
 
 <a href="https://app.daily.dev/offensivedroid"><img  align="right" src="https://api.daily.dev/devcards/f327371547b147fe97587bf5a6a70df0.png?r=jzm" width="400" alt="offensivedroid's Dev Card"/></a>
