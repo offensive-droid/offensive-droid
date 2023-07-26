@@ -54,8 +54,8 @@ Welcome on my Github profile!
 
 | Github Stats | Top Languages |
 | --- | --- |
-| ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=offensivedroid&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=offensivedroid&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
-[![trophy](https://github-profile-trophy.vercel.app/?username=offensivedroid&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy) | | 
+| ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=offensivedroid&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=offensive-droid&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+[![trophy](https://github-profile-trophy.vercel.app/?username=offensive-droid&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy) | | 
 
  
  
