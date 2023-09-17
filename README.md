@@ -48,7 +48,7 @@ Welcome on my Github profile!
 
 ### <img src="https://tryhackme-images.s3.amazonaws.com/user-avatars/7f569dd51a176e91ef903ede95eb3eee.jpg" width="30px"> TryHackme Profile
 
-<img src="badge.png"  alt="TryHackMe">
+<img src="badge.png"  width="60" alt="TryHackMe">
 
 <hr>
 
