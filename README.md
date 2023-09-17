@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">OffensiveDroid</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-<img src="badge.png">
+<img src="banner.png">
 
 Welcome on my Github profile!
 
@@ -48,7 +48,7 @@ Welcome on my Github profile!
 
 ### <img src="https://tryhackme-images.s3.amazonaws.com/user-avatars/7f569dd51a176e91ef903ede95eb3eee.jpg" width="30px"> TryHackme Profile
 
-<img src="https://i.ibb.co/Fxvds49/thm-removebg-preview.png"  alt="TryHackMe">
+<img src="badge.png"  alt="TryHackMe">
 
 <hr>
 
